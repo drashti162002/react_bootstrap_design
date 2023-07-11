@@ -1,0 +1,51 @@
+.mobile_section{
+    padding-top: 60px;
+    padding-bottom: 110px;
+    background-color: rgb(29, 109, 240);
+}
+.row_color{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+    margin: 0;
+}
+
+.mobile_icon{
+    font-size: 80px;
+    /* color: white; */
+    padding: 10px;
+     border-radius: 50%;
+    background-color: rgb(29, 109, 240);
+}
+/* .icon_div{
+    background-color: rgb(29, 109, 240);
+    border-radius: 50%
+} */
+.meet_team{
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+}
+.book_button{
+    border-radius: 25px;
+    padding: 10px 20px 10px 20px;
+    font-weight: 700;
+    float: right;
+}
+@media (max-width:769px) {
+    .mobile_section{
+       text-align: center;
+    }
+    .book_button{
+        float: inherit;
+    }
+}
+@media (max-width:426px) {
+    .face_name_mobile h2{
+     font-size: 25px;
+    }
+    .face_name_mobile h5{
+       font-size: 16px;
+    }
+    
+ }

@@ -1,0 +1,14 @@
+/* .row{
+    margin: 0 !important;
+}
+.col{
+    padding: 0 !important;
+} */
+
+@media (max-width:769px) {
+    .row{
+   row-gap: 20px;
+   /* grid-gap: 20px; */
+    }
+   
+ }

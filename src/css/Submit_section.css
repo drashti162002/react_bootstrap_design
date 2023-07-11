@@ -1,0 +1,68 @@
+.input_type{
+    display: flex;
+    margin: 20px 0px 35px;
+}
+input {
+    border: none;
+    border-radius: 0rem !important;
+}
+/* button {
+    border-radius: 0rem !important;
+} */
+.submit_section{
+    background-color: rgb(242, 242, 242);
+    padding: 35px 0px;
+}
+.submit_button{
+    padding: 0px 30px;
+}
+.image_name{
+    display: flex;
+    align-items: flex-end
+}
+.name_image{
+    font-size: 20px;
+    font-weight: 600;
+}
+.social_icon{
+    background-color: rgb(41,45,51);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.all_icon{
+    /* background-color: rgb(41,45,51); */
+    font-size: 75px;
+    color: white;
+    display: flex;
+    gap: 25px
+}
+.input_title{
+    font-size: 50px;
+    text-align: center;
+    padding: 0px 154px 20px;
+}
+
+@media (max-width:769px) {
+    .input_title{
+        font-size: 33px;
+       padding: 0px 0px 20px;
+       font-weight: 600;
+    }
+}
+
+@media (max-width:426px) {
+   .input_type{
+    display: block;
+   }
+   .submit_button{
+   width: 100%;
+   margin: 15px 0px;
+   }
+   .all_icon{
+    padding: 30px 0px;
+   }
+   .social_icon{
+    margin: 0px 15px;
+   }
+}

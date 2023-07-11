@@ -1,0 +1,49 @@
+.card_part{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.dolar_number{
+    font-size: 60px;
+    color: rgb(29,109,240);
+    padding: 20px 0px;
+}
+.card_icon1{
+    font-size: 70px;
+    color:rgb(29,109,240) ;
+    border-radius: 50%;
+    background-color: rgb(242, 242, 242);
+    padding: 26px 34px ;
+}
+.card_icon2{
+    font-size: 70px;
+    color:white ;
+    border-radius: 50%;
+    background-color: rgb(29,109,240);
+    padding: 26px 34px ;
+}
+.card_icon3{
+    font-size: 70px;
+    color:rgb(29,109,240) ;
+    border-radius: 50%;
+    background-color: rgb(242, 242, 242);
+    padding: 26px 34px ;
+}
+.card_shawdow{
+    box-shadow: 0px 0px 10px 5px #e6e6e6
+}
+.small_name{
+    font-weight: 700;
+}
+.small_name1{
+    font-weight: 700;
+    padding-bottom: 40px;
+}
+.get_plan_button{
+    padding: 5px 25px;
+    border-radius: 28px;
+}
+.get_plan_button:hover{
+    background-color: azure;
+    color: rgb(29,109,240);
+}

@@ -1,0 +1,27 @@
+.all_company_name_section{
+    background-color: rgb(41,45,51);
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+/* .copany_name_row{
+    margin-left: 50px;
+    margin-right: 50px;
+} */
+.business_name{
+    font-size: 50px;
+    padding-bottom: 25px;
+}
+.company_1{
+    width: 75%;
+    padding-bottom: 50px;
+}
+.business_subname{
+ padding-bottom: 30px
+}
+@media (max-width:769px) {
+    .business_name{
+     font-size: 30px;
+    }
+ }

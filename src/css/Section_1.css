@@ -1,0 +1,78 @@
+
+.list_icon{
+    font-size: 30px;
+}
+.first_section_list{
+    text-align: center;
+    padding: 15px 0px 15px 0px ;
+}
+.list_row_background{
+    background-color: white;
+
+}
+.hedding{
+    text-align: center;
+    height: 90vh;
+    align-items: center;
+}
+.first_section_background{
+    position: relative;
+    background-color: rgb(41,45,51);
+
+}
+.full_hedding{
+    font-size: 150px;
+    font-weight: 800;
+}
+.first_hedding_name{
+    color: white;
+}
+.hedding_name_blue{
+    color: blue;
+}
+.second_headding{
+    font-size: 25px;
+    color: white;
+}
+@media (max-width:769px) {
+    .full_hedding{
+    font-size: 65px;
+    font-weight: 700;
+    }
+    .second_headding{
+        font-size: 16px;
+    }
+   
+}
+
+@media (max-width:426px) {
+    .full_hedding{
+    font-size: 45px;
+    font-weight: 500;
+    }
+    .second_headding{
+        font-size: 16px;
+    }
+   
+}
+@media (max-width:376px) {
+    .full_hedding{
+    font-size: 45px;
+    font-weight: 500;
+    }
+    .second_headding{
+        font-size: 16px;
+    }
+   
+}
+
+@media (max-width:321px) {
+    .full_hedding{
+    font-size: 40px;
+    font-weight: 500;
+    }
+    .second_headding{
+        font-size: 16px;
+    }
+   
+ }

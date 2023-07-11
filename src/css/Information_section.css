@@ -1,0 +1,38 @@
+.all_about_info{
+    background-color: rgb(41,45,51);
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.infosection_info_1{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.2;
+    padding-top: 15px;
+}
+.infosection_info_2{
+  font-size: 25px;
+  line-height: 1.2;
+}
+.button_info{
+    border-radius: 28px;
+    padding: 15px 35px 15px 35px;
+    letter-spacing: 2px;
+}
+.button_info:hover{ 
+   color: blue !important;
+   background-color: white !important;
+   border: none;
+
+}
+.main_name{
+    padding-bottom: 18px;
+}
+@media (max-width:769px) {
+   .infosection_info_1{
+    font-size: 25px;
+   }
+   .infosection_info_2{
+    font-size: 16px;
+   }
+}
