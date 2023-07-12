@@ -21,7 +21,7 @@ function Image_card_section() {
             <Row>
                 <Col md ={6} lg={4} className='all_card_column'>
              
-                    <Card className='all_card'> 
+                    <Card className='all_card' data-aos="zoom-in" data-aos-duration="2000"> 
                         <Card.Img variant="top" src={first_image} className='first_image'/>
 
                         <Card.Title>Mary Brown</Card.Title>
@@ -39,7 +39,7 @@ function Image_card_section() {
                 </Col>
                 <Col md ={6} lg={4} className='all_card_column'>
              
-                <Card className='all_card'>
+                <Card className='all_card' data-aos="zoom-in" data-aos-duration="2000">
                         <Card.Img variant="top" src={second_image} className='first_image'/>
                      
                         <Card.Title>Ann Richmond</Card.Title>
@@ -56,7 +56,7 @@ function Image_card_section() {
                 </Col>
                 <Col md ={6} lg={4} className='all_card_column'>
              
-                <Card className='all_card'>
+                <Card className='all_card' data-aos="zoom-in" data-aos-duration="2000">
                         <Card.Img variant="top" src={third_image} className='first_image'/>
                       
                         <Card.Title>Bob Greenfield</Card.Title>

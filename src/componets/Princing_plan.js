@@ -23,7 +23,7 @@ function Princing_plan(){
 
                 </Col>
                 <Col md={6} lg={4} >
-                <Card className='card_shawdow'>
+                <Card className='card_shawdow' data-aos="zoom-in" data-aos-duration="2000">
                     <Card.Body>
                     <FontAwesomeIcon icon="fa-regular fa-lightbulb" className="card_icon1"/>
                         <Card.Title className='dolar_number'>$0</Card.Title>
@@ -40,7 +40,7 @@ function Princing_plan(){
                     </Card>
                 </Col>
                 <Col md={6} lg={4}>
-                <Card className='card_shawdow'>
+                <Card className='card_shawdow' data-aos="zoom-in" data-aos-duration="2000">
                     <Card.Body>
                     <FontAwesomeIcon icon="fa-solid fa-mobile-screen"  className="card_icon2"/>
                         <Card.Title className='dolar_number'>$29</Card.Title>
@@ -57,7 +57,7 @@ function Princing_plan(){
                     </Card>
                 </Col>
                 <Col md={6} lg={4}>
-                <Card className='card_shawdow'>
+                <Card className='card_shawdow' data-aos="zoom-in" data-aos-duration="2000">
                     <Card.Body>
                     <FontAwesomeIcon icon="fa-solid fa-gear"  className="card_icon3"/>
                         <Card.Title className='dolar_number'>$59</Card.Title>

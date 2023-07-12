@@ -19,6 +19,8 @@ function Image_info_section() {
                 <img src={face_image} alt='img' className="image_face"></img>
                 </Col>
                 <Col md={6} lg={6}>
+                    <div data-aos="fade-left" data-aos-duration="1500">
+
                 <div>
 
                 <FontAwesomeIcon icon="fa-solid fa-quote-right" className='qutoe_icon'/>
@@ -27,6 +29,7 @@ function Image_info_section() {
                   <h4>Victoria Perry</h4>
                   <h5 className='ceo_name'>CEO and Co-Founder</h5>
             
+                    </div>
 
                 </Col>
             </Row>

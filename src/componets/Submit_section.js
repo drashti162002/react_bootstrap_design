@@ -37,7 +37,7 @@ function Submit_section(){
                         <p className='name_image'>Nina Scavo</p>
                     </div>
                 </Col>
-                <Col md={5} lg={5} className='social_icon'>
+                <Col md={5} lg={5} className='social_icon' data-aos="zoom-in" data-aos-duration="2000">
                    <div className='all_icon'> 
                         <FontAwesomeIcon icon="fa-brands fa-facebook-f" />
                         <FontAwesomeIcon icon="fa-brands fa-twitter" />

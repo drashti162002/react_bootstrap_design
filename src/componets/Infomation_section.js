@@ -17,6 +17,8 @@ function Information_section() {
                     </Button>
                 </Col>
                 <Col md={6} lg={6}>
+                    <div data-aos="fade-left" data-aos-duration="1500">
+
                     <div>
                     <h4 className="main_name">Development</h4>
                     <p>Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
@@ -30,6 +32,7 @@ function Information_section() {
                     <p>Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
                     </div>
 
+                    </div>
                 </Col>
             </Row>
         </Container>

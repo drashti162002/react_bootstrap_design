@@ -10,10 +10,10 @@ function Number_info() {
             <Row className="all_number_info">
                 <Col md={6} lg={6}>
                     <div className="info_section">
-                    <div className="number_all">
+                    <div className="number_all" data-aos="zoom-in-down" data-aos-duration="1500">
                     <h1 className="number_1">01</h1>
                     </div>
-                    <div className="pera_all">
+                    <div className="pera_all" data-aos="zoom-in" data-aos-duration="1500">
                     <p className="pera_info_1">
                     Comfort produce husband boy her had hearing. Law others theirs passed but wishes. You day real less till dear read. Considered use dispatched melancholy sympathize discretion led. Oh feel if up to till like. He an thing rapid these after going drawn or. </p>
 
@@ -24,11 +24,11 @@ function Number_info() {
                 </Col>
                 <Col md={6} lg={6}>
                    <div className="info_section"> 
-                    <div className="number_all">
+                    <div className="number_all" data-aos="zoom-in-down" data-aos-duration="1500">
                    <h1 className="number_1">02</h1>
 
                     </div>
-                    <div className="pera_all">
+                    <div className="pera_all"  data-aos="zoom-in" data-aos-duration="1500">
 
                     <p className="pera_info_1">
                     Comfort produce husband boy her had hearing. Law others theirs passed but wishes. You day real less till dear read. Considered use dispatched melancholy sympathize discretion led. Oh feel if up to till like. He an thing rapid these after going drawn or. </p>
@@ -43,7 +43,7 @@ function Number_info() {
                    <img src={image_set}  className='image_1' alt=''></img>
                 </Col>
                 <Col md={6} lg={6} className="col_center">
-                    <div className="image_info">
+                    <div className="image_info" data-aos="fade-left" data-aos-duration="1500">
 
                     <p className="image_data">We collaborate with brands and agencies to create memorable experiences.</p>
                     </div>

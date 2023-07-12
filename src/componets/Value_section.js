@@ -18,7 +18,7 @@ function Value_section(){
                   
                        <img src={value_section_image} alt="" className="value_section_image"></img>
                   
-                    <div className='section_name'>
+                    <div className='section_name' data-aos="fade-left" data-aos-duration="1500">
                         <h3>We collaborate with brands and agencies to create memorable experiences.</h3>
                     </div>
                 </Col>

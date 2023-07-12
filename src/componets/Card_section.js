@@ -22,7 +22,7 @@ function Card_section() {
            
         <Row>                                   
             <Col  md={6} lg={3}>       
-                <Card className="all_card">
+                <Card className="all_card" data-aos="zoom-in" data-aos-duration="2000">
                     <Card.Body>
                         <FontAwesomeIcon icon="fa-solid fa-gear" className="setting_icon"/>
                         <Card.Title className="card_name">Advisory</Card.Title>
@@ -36,7 +36,7 @@ function Card_section() {
                 </Card> */}
             </Col>
             <Col md={6} lg={3}>
-                <Card className="all_card">
+                <Card className="all_card" data-aos="zoom-in" data-aos-duration="2000">
                     <Card.Body>
                         <FontAwesomeIcon icon="fa-solid fa-gear" className="setting_icon"/>
                         <Card.Title className="card_name">Development</Card.Title>
@@ -44,7 +44,7 @@ function Card_section() {
                 </Card>
             </Col>
             <Col md={6} lg={3}>
-                <Card className="all_card">
+                <Card className="all_card" data-aos="zoom-in" data-aos-duration="2000">
                     <Card.Body>
                         <FontAwesomeIcon icon="fa-solid fa-gear" className="setting_icon"/>
                         <Card.Title className="card_name">Planning</Card.Title>
@@ -52,7 +52,7 @@ function Card_section() {
                 </Card>
             </Col>
             <Col md={6} lg={3}>
-                <Card className="all_card"> 
+                <Card className="all_card" data-aos="zoom-in" data-aos-duration="2000"> 
                     <Card.Body>
                         <FontAwesomeIcon icon="fa-solid fa-gear" className="setting_icon"/>
                         <Card.Title className="card_name">Strategy</Card.Title>
