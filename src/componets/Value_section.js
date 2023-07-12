@@ -34,7 +34,7 @@ function Value_section(){
                                 )}
                          </CountUp>
                     {/* <CountUp end={100}  duration={5}> */}
-                        {/* <h1 className='number_value'></h1> */}
+                        {/* <h1 className='number_value'></h1>  add new commit }*/ }
                     {/* </CountUp> */}
                         <p>Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
                     </div>
